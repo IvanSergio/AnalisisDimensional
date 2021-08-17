@@ -34,7 +34,7 @@ namespace Principal.Store
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             // Linea modificada desde Master // Cambio para hacer doble conflicto
-            // Segunda linea modificada desde Master // Doble CONFFFF
+            // Segunda linea modificada desde Master // Doble CONFFFF MOD 2
         }
     }
 }
