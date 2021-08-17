@@ -33,6 +33,8 @@ namespace Principal.Store
         /// property is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+            // Cambio en develop
+            
         }
     }
 }
