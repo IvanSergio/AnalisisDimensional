@@ -6,7 +6,9 @@ namespace Principal.Store.Views
     {
         public FirstView()
         {
-            this.InitializeComponent();
+            this.InitializeComponent(); // COndigo desde Master para resolver conf
+            // COdigo desde Merge para resolver conf MOD TAMBIEN
+            //asdasd
         }
     }
 }

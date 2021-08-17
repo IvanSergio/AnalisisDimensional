@@ -33,8 +33,9 @@ namespace Principal.Store
         /// property is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            // Linea modificada desde Master
-            // Segunda linea modificada desde Master
+            // Linea modificada desde Master // MODDDDD
+            // Segunda linea modificada desde Master // ASDD
+            string asd = "Hola mundo";
         }
     }
 }
